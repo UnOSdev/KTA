@@ -24,7 +24,7 @@ Installation:
     git clone https://github.com/UnOSdev/KTA //Downloading the program files
 
 
-Everything you write from your keyboard will be wrotten on your Android Phone.
+Everything you write from your keyboard will be written on your Android Phone.
 
 Commands:
 
